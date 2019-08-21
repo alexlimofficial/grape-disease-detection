@@ -1,2 +1,5 @@
 logs/
+data_arr/
+trained_models/
+plots/
 grape-disease-classification.ipynb
